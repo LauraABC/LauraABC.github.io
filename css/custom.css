@@ -1,0 +1,84 @@
+hr {
+    border-color: #fff;
+}
+hr.dark {
+   border-color: #000;
+   padding-bottom: 50px;
+}
+map>area:hover {
+  cursor: pointer;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Amatic SC', cursive;
+}
+.h2, h2 {
+    font-size: 4em;
+}
+.h3, h3 {
+    font-size: 2.5em;
+}
+.h4, h4 {
+    font-size: 1.5em;
+    font-weight: 900;
+}
+.panel-title {
+    font-size: 2em;
+}
+p{
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+h1 {
+  font-size:
+}
+.navbar-brand {
+    padding: 0 15px;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: transparent;
+}
+.navbar-default {
+    background-color: transparent;
+    border-color: transparent;
+}
+.navbar-default.affix {
+    background-color: transparent;
+    border-color: transparent;
+}
+footer {
+    margin: 0px;
+    padding: 50px;
+}
+.panel-default > .panel-heading {
+    color: #f9f9f9;
+    background-color: #261514;
+    border-color: #261514;
+}
+.panel-default > .panel-heading a:hover, .panel-default > .panel-heading a:focus, .panel-default > .panel-heading a:active {
+    color: #fff;
+    outline: none;
+}
+.navbar-default .navbar-toggle {
+    display: none;
+}
+
+.service-box img {
+  margin-left: auto;
+  margin-right: auto;
+}
+.modal-header {
+    background-color: #261514;
+    color: #eee;
+}
+.close {
+    color: #eee;
+}
+.close:hover {
+    color: #fff;
+}
+.panel-heading span{
+  float: right;
+}
+footer a{
+  color: #fff;
+}
